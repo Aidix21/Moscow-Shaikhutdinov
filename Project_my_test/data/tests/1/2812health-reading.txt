@@ -1,0 +1,11 @@
+Fill in the gaps with the words from the box.
+#
+clean make leg muscle ambulance
+#
+1. When I wake up, I brush my teeth and *  my bed.
+2. My mum asked me to *  the table after breakfast.
+3. My arm hurts. I think I have pulled a * .
+4. Tom fell down and broke his * .
+5. Mark has a terrible pain. Let's call an * .
+#
+1 0 3 2 4
